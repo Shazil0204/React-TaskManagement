@@ -13,16 +13,14 @@ This is a task management application built using React with TypeScript for the 
 
 ## Technologies Used
 . Frontend:
-
-.. React
-.. TypeScript
-.. Tailwind CSS
+  > React
+  > TypeScript
+  > Tailwind CSS
 
 . Backend:
-
-.. Node.js
-.. Express.js
-.. MSSQL database with TypeORM
+  > Node.js
+  > Express.js
+  > MSSQL database with TypeORM
 
 ## API Endpoints
 . GET /tasks: Get all tasks.
