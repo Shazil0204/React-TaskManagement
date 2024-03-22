@@ -12,22 +12,22 @@ This is a task management application built using React with TypeScript for the 
 . Authentication (Optional): Register and login to access personalized task lists.
 
 ## Technologies Used
-. Frontend:
-  > React
-  > TypeScript
-  > Tailwind CSS
+> Frontend:
+  >> React
+  >> TypeScript
+  >> Tailwind CSS
 
-. Backend:
-  > Node.js
-  > Express.js
-  > MSSQL database with TypeORM
+> Backend:
+  >> [Node.js]
+  >> [Express.js]
+  >> [MSSQL database with TypeORM]
 
 ## API Endpoints
-. GET /tasks: Get all tasks.
-. POST /tasks: Add a new task.
-. GET /tasks/:id: Get a single task by ID.
-. PUT /tasks/:id: Update an existing task by ID.
-. DELETE /tasks/:id: Delete a task by ID.
+> GET /tasks: Get all tasks.
+> POST /tasks: Add a new task.
+> GET /tasks/:id: Get a single task by ID.
+> PUT /tasks/:id: Update an existing task by ID.
+> DELETE /tasks/:id: Delete a task by ID.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
