@@ -12,7 +12,7 @@ This is a task management application built using React with TypeScript for the 
 . Authentication (Optional): Register and login to access personalized task lists.
 
 ## Technologies Used
-> Frontend:
+* Frontend:
   >> React
   >> TypeScript
   * Tailwind CSS
