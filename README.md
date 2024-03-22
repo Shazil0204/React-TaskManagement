@@ -15,7 +15,7 @@ This is a task management application built using React with TypeScript for the 
 > Frontend:
   >> React
   >> TypeScript
-  >> Tailwind CSS
+  * Tailwind CSS
 
 > Backend:
   >> [Node.js]
